@@ -1,2 +1,3 @@
 #!/bin/bash
-alias [-p] [name="value"]
+alias my_alias = 'command to be aliased'
+
