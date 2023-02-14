@@ -1,3 +1,2 @@
 #!/bin/bash
-alias my_alias = 'command to be aliased'
-
+alias my_alias = "command to be aliased"
